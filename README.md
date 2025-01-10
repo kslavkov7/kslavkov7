@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kslavkov7
 - 👀 I’m interested in coding and sports.
-- 🌱 I’m currently learning Java Web.
+- 🌱 I’m currently learning Git and GitHub.
 - 📫 How to reach me : ig : kslavkov7
