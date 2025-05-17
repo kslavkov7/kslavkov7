@@ -2,6 +2,6 @@
 
 - 🏠 From Sofia, Bulgaria
 - 👨‍💻 Working at IBM as a Technical Support Specialist
-- 👀 I’m interested in coding and sports.
-- 🌱 I’m currently learning Git and GitHub.
+- 👀 I’m interested in IT and sports.
+- 🌱 I’m currently learning Ansible.
 - 📫 How to reach me : ig : kslavkov7
